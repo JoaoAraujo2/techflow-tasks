@@ -1,3 +1,11 @@
+# TechFlow Tasks – Portfólio Engenharia de Software
+
+👨‍🎓 **Aluno:** João Pedro Araujo e Souza  
+📚 **Curso:** Gestão da Tecnologia da Informação – UniFecaf  
+👨‍🏫 **Disciplina:** Engenharia de Software  
+📅 **Semestre:** 2025.2  
+
+---
 # TechFlow Tasks – Agile Task Manager (Python + FastAPI)
 
 Sistema simples de gerenciamento de tarefas para simular um projeto ágil (Kanban) da **TechFlow Solutions**.
